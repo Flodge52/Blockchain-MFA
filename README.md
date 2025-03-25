@@ -1,7 +1,7 @@
 # Blockchain-MFA
 Dissertation project for BMFA system using Python and Solidity\n
 
-** Prerequisites **\n
+** Prerequisites **'\n'
 . Ganache\n
 . VSCode\n
 . pip\n
